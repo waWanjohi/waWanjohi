@@ -13,7 +13,7 @@
 
 💡 &nbsp; I'm a web developer and tech enthusiast from Kenya.\
 🎓 &nbsp;I'm currently studying a Bachelors degree in Business Information Technology at the University of Eastern Africa, Baraton (2017-2021).\
-🌱 &nbsp;I develop for the web. Currently I have been using JavaScript and Python. React and Django have been my favorite so far for frontend and backend development.\
+🌱 &nbsp;I develop for the web. I have been using JavaScript and Python. React and Django have been my favorite so far for frontend and backend development. I am currently learning to create microsystems.\
 ✍️ &nbsp;I also play the guitar and piano, both as a hobby and also professionally.\
 💬 &nbsp;Feel free to contact me for collaborations on a project, or just to make friends.\
 
