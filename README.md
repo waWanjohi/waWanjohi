@@ -1,4 +1,4 @@
-![Banner Image](Banner.png?raw=true "Title")
+![Banner Image](Banner.png?raw=true "Banner Image")
 
 ### <img alt="handwavegif" src="https://media.giphy.com/media/l0IycTYBz94kaXNTy/giphy.gif" width='90' align="left"/>
  
