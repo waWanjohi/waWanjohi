@@ -13,9 +13,7 @@ Hello, It's World !
 
 <!-- ### 👨🏻‍💻 &nbsp; I'm Fullstack Developer -->
 
-```
-yii migrate/create create_post_table --fields="author_id:integer:notNull:foreignKey(user),category_id:integer:defaultValue(1):foreignKey,title:string,body:text"
-```
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
