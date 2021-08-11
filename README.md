@@ -6,7 +6,7 @@ Hello, It's World !
 \
 \
 ![version :16.07.2021](https://img.shields.io/badge/version-16.07.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=waWanjohi&color=red)&nbsp;
 [![GitHub waWanjohi](https://img.shields.io/github/followers/waWanjohi?label=follow&style=social)](https://github.com/waWanjohi)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
