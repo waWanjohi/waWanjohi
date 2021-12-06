@@ -2,8 +2,12 @@
 
 ### <img alt="handwavegif" src="https://media.giphy.com/media/l0IycTYBz94kaXNTy/giphy.gif" width='90' align="left"/>
  
-Hello, It's World !
+Hello, It's waWanjohi !
 \
+I am a web developer. 
+\
+I love simple, clean code and have made it my goal to write more efficient code on a daily.
+
 \
 ![version :16.07.2021](https://img.shields.io/badge/version-16.07.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=waWanjohi&color=red)&nbsp;
