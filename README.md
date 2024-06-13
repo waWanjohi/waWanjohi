@@ -18,33 +18,13 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
-<!-- ### 👨🏻‍💻 &nbsp; I'm Fullstack Developer -->
-
 
 ### 🛠 &nbsp;Tech Stack
-
-<!-- ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
- -->
- 
- 
-
-
-
-
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr></hr>
-<br>
 
 
 ### 📫 &nbsp; Contact:
