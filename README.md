@@ -1,16 +1,9 @@
 <br>
-<br>
-<br>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><br><br>
 </p>
 <br>
 <br>
-<br>
-<br>
-
-
-
 
 ![version :12.05.2023](https://img.shields.io/badge/version-12.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=waWanjohi&color=red)&nbsp;
