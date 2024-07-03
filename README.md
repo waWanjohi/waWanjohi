@@ -4,5 +4,7 @@
   <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="100">
 </div>
  
-
-
+<div align="center"> 
+  <a href="https://blog.stickmancorp.io" target="_blank">Blog</a> . 
+  <a href="https://linkedin.com/in/waWanjohi" target="_blank">LinkedIn</a> 
+</div>
