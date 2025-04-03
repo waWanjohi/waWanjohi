@@ -6,5 +6,6 @@
  <br>
 <div align="center"> 
   <a href="https://blog.stickmancorp.com" target="_blank">Blog</a> . 
+  <a href="https://stickmancorp.com" target="_blank">Website</a> . 
   <a href="https://linkedin.com/in/waWanjohi" target="_blank">LinkedIn</a> 
 </div>
