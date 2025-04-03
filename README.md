@@ -5,6 +5,6 @@
 </div>
  <br>
 <div align="center"> 
-  <a href="https://blog.stickmancorp.io" target="_blank">Blog</a> . 
+  <a href="https://blog.stickmancorp.com" target="_blank">Blog</a> . 
   <a href="https://linkedin.com/in/waWanjohi" target="_blank">LinkedIn</a> 
 </div>
